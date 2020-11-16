@@ -14,3 +14,6 @@ git commit --amend -m "Nuevo mensaje"
 
 git diff
 git difftool <hash1> <hash2>
+
+git switch -c <nueva rama>
+git branch
